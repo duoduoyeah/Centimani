@@ -1,4 +1,4 @@
-# Centimani: Enabling Fast AI Accelerator Selection for DNN Training with a Novel  Performance Predictor
+# [Centimani](https://www.usenix.org/conference/atc24/presentation/xie): Enabling Fast AI Accelerator Selection for DNN Training with a Novel  Performance Predictor
 
 The micro-benchmarks is to benchmark operations that are important to deep learning on different hardware platforms.
 
